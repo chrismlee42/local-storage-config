@@ -12,5 +12,5 @@ labels:
 
 # namespace: local-storage
 
-resources:
-  - local-storage-storageclass.yaml
+resources: []
+  # - local-storage-storageclass.yaml
